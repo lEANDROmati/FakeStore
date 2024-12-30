@@ -1,4 +1,4 @@
-									Proyecto FakeStore
+							Proyecto FakeStore
 
 # Descripción General :
 
@@ -69,3 +69,9 @@ La capa principal que expone las funcionalidades del sistema a través de contro
 - Controllers: Contiene los controladores RESTful, cada uno responsable de manejar una entidad del sistema:
 - Archivos clave:
  -Program.cs y appsettings.json
+
+
+
+## swagger ui ##
+ 
+![image](https://github.com/user-attachments/assets/5689aa79-c5b7-4a7b-82fa-95ee644065d8)
