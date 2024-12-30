@@ -1,1 +1,1 @@
-Proyecto FakeStor
+Proyecto FakeStore
