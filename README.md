@@ -73,5 +73,7 @@ La capa principal que expone las funcionalidades del sistema a través de contro
 
 
 ## swagger ui ##
+
+ <a href="https://fakestoreapi-f2eagtbeh3euasc6.canadacentral-01.azurewebsites.net">Visita swagger</a>
  
 ![image](https://github.com/user-attachments/assets/5689aa79-c5b7-4a7b-82fa-95ee644065d8)
